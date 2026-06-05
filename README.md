@@ -1,2 +1,2 @@
 # ContestDVK
-Quick and simple Python Contest DVK
+Quick and simple Python Contest Digital Voice Keyer (DVK)
