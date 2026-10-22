@@ -1,6 +1,7 @@
 # ContestDVK
-Quick and simple Python Contest Digital Voice Keyer (DVK)
+Quick and simple Python Contest Digital Voice Keyer (DVK) built initially for Linux
 
+# #
 
 22/10/2026
 
