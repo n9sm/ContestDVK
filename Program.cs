@@ -89,7 +89,7 @@ namespace ContestDVK
             Font = new Font("Segoe UI", 9F);
 
             string audio = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "audio");
-            string[] names = { "CQ_NVR.wav", "IZ3NVR.wav", "59_15.wav" };
+            string[] names = { "track1.wav", "track2.wav", "track3.wav" };
             tracks = new AudioTrack[names.Length];
             
             var main = new TableLayoutPanel();
