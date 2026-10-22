@@ -1,6 +1,8 @@
 # ContestDVK
 Quick and simple Python Contest Digital Voice Keyer (DVK) built initially for Linux
 
+<img width="520" height="165" alt="image" src="https://github.com/user-attachments/assets/ecb498de-cf6a-4179-88e5-3ab3a8ba0145" />
+
 # #
 
 22/10/2026
